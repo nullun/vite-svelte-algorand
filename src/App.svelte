@@ -6,13 +6,13 @@
 <main>
   <div>
     <a href="https://vitejs.dev" target="_blank"> 
-      <img src="/vite.svg" class="logo" alt="Vite Logo" />
+      <img src="./vite.svg" class="logo" alt="Vite Logo" />
     </a>
     <a href="https://svelte.dev" target="_blank"> 
       <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
     </a>
     <a href="https://algorand.foundation" target="_blank"> 
-      <img src="/algorand.svg" class="logo algorand" alt="Algorand Logo" />
+      <img src="./algorand.svg" class="logo algorand" alt="Algorand Logo" />
     </a>
   </div>
   <h1>Vite + Svelte + Algorand</h1>
